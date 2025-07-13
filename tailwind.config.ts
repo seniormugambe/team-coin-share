@@ -52,6 +52,18 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				bitcoin: {
+					DEFAULT: 'hsl(var(--bitcoin))',
+					foreground: 'hsl(var(--bitcoin-foreground))'
+				},
+				vault: {
+					DEFAULT: 'hsl(var(--vault))',
+					foreground: 'hsl(var(--vault-foreground))'
+				},
+				pending: {
+					DEFAULT: 'hsl(var(--pending))',
+					foreground: 'hsl(var(--pending-foreground))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
